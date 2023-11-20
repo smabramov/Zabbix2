@@ -12,8 +12,12 @@
 
 
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+
+![Задание 1](https://github.com/smabramov/Zabbix2/blob/a5fcda1561735ab538ccade2cda9c476ba5cc2de/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.png)
+
+![Задание 1.1](https://github.com/smabramov/Zabbix2/blob/a5fcda1561735ab538ccade2cda9c476ba5cc2de/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.1.png)
+
+![Задание 1.2](https://github.com/smabramov/Zabbix2/blob/a5fcda1561735ab538ccade2cda9c476ba5cc2de/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.2.png)
 
 
 ---
