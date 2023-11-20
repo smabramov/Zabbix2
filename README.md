@@ -49,8 +49,14 @@
 
 
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+
+![Задание 3](https://github.com/smabramov/Zabbix2/blob/37190b8f684279196a82353d6499d9308cd7f123/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.png)
+
+![Задание 3.1](https://github.com/smabramov/Zabbix2/blob/37190b8f684279196a82353d6499d9308cd7f123/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.1.png)
+
+![Задание 3.2](https://github.com/smabramov/Zabbix2/blob/37190b8f684279196a82353d6499d9308cd7f123/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.2.png)
+
+![Задание 3.3](https://github.com/smabramov/Zabbix2/blob/37190b8f684279196a82353d6499d9308cd7f123/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.3.png)
 
 ### Задание 4
 
